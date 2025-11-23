@@ -90,9 +90,10 @@ Layer 1: Body
 - pain, warm, sweet, red, sour, etc.
 - Supports 54 types of qualia
 
-**Layer 2 (Qualia)**: Converts stimuli to "feelings"
+**Layer 2 (Qualia)**: Assigns values to stimuli
 - DNA initial value + learned value = effective value
-- pain=-0.9, sweet=+0.7, etc.
+- pain=-0.9 (avoid), sweet=+0.7 (approach), etc.
+- Approach/avoidance evaluation
 
 **Layer 3 (Structuring)**: Predictive coding
 - Prediction through pattern matching
