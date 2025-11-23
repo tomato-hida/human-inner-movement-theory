@@ -294,7 +294,6 @@ Anyone can research in this style:
 ### Requirements
 
 - Python 3.8+
-- NumPy
 
 ### Minimal Implementation (100 lines)
 
