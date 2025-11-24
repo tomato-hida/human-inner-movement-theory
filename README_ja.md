@@ -38,7 +38,7 @@ Markdown
 
 Fristonの自由エネルギー原理および予測符号化の理論と（事後的に）整合する、以下の5層構造を採用しています。
 
-```mermaid
+
 graph TD
     L5[Layer 5: Consciousness (Global Workspace)] -->|Top-down| L4
     L4[Layer 4: Memory & Self-Model] -->|Prediction| L3
