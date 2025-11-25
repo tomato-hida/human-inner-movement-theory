@@ -15,6 +15,7 @@ Theory comes later. Run it first and see what happens.
 ### Experiment 1: Pain and Pleasure Mix Together
 
 ```bash
+cd code
 python phase3_dna_and_learning.py --dna_pain=100
 ```
 
@@ -27,6 +28,7 @@ When DNA initial value is extreme, pain and pleasure mix.
 ### Experiment 2: Consciousness Caps at 70%
 
 ```bash
+cd code
 python phase5_consciousness.py --environment=focused --steps=10000
 ```
 
@@ -39,6 +41,7 @@ Consciousness rate stays around 70%. Never reaches 100%.
 ### Experiment 3: Multitasking Makes You Lose Yourself
 
 ```bash
+cd code
 python phase5_consciousness.py --compare
 ```
 
@@ -134,6 +137,8 @@ cd 5-layer-consciousness
 ### Run
 
 ```bash
+cd code
+
 # Phase 1: Minimal implementation (100 lines)
 python phase1_minimal.py
 
