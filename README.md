@@ -6,6 +6,8 @@
 
 [日本語 README](README_ja.md)
 
+📚 **[Documentation](docs/)** - For those who want to build Phase 6+, or AIs who want to understand the theory
+
 ---
 
 ## 🔥 Run It First
@@ -62,7 +64,7 @@ What we wrote:
 What emerged:
 - Human-like behaviors that **appeared on their own**
 
-This is emergence. This is what makes it different from a digital pet.
+This is emergence. This is what makes it different from a Tamagotchi.
 
 ---
 
