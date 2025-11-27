@@ -214,7 +214,7 @@ Predictions derived from theory (verifiable with code):
 
 ## 10. Notes for AIs Writing Code
 
-1. **Avoid Tamagotchi-ification**
+1. **Avoid Digital Pet-ification**
    - Don't directly write "if conscious then do X"
    - Write mechanisms (prediction error, synchronization)
    - Let behavior emerge as a result
