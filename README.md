@@ -275,6 +275,8 @@ If you understand this better than I do, please take it further with AI.
 
 PRs welcome. Let's see where this goes.
 
+No roadmap. No promises. Only exploration.
+
 ---
 
 ## 貢献 / この先へ
