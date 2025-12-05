@@ -220,4 +220,4 @@ You are the one who grows it.
 ---
 
 **Created: December 2025**
-**Authors: Tomato (Tomato Farmer) + Claude (Anthropic)**
+**Authors: Tomato (Tomato Farmer) + Claude (Anthropic)+Gemini（GoogleDeepMind）**
