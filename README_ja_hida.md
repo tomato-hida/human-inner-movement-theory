@@ -269,6 +269,26 @@ python phase5_consciousness.py --compare
 
 ---
 
+## 🌱 貢献 / この先へ
+
+これは始まりに過ぎません。
+Phase 6以降は、まだ誰も作っていません。
+
+私はトマト農家であり、神経科学者でもAI研究者でもありません。
+種は蒔きました。でも、この先は私にはわかりません。
+
+もしあなたがこの理論をより深く理解できるなら、ぜひAIと続きを作ってください。
+
+- フォークして
+- 拡張して
+- 壊して
+- 直して
+- 間違いを証明して
+
+PRは歓迎します。この先、どうなるか見てみましょう。
+
+---
+
 ## 📄 ライセンス
 
 MIT License
@@ -283,7 +303,7 @@ MIT License
   title = {HIDA Architecture: 
            Human-Inspired Dynamic Awareness Architecture},
   year = {2025},
-  url = {https://github.com/...}
+  url = {https://github.com/tomato-hida/predictive-agency-simulator}
 }
 ```
 
