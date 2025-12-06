@@ -151,8 +151,8 @@ Example: When you see a snake
 ### Installation
 
 ```bash
-git clone https://github.com/[your-repo]/hida-architecture.git
-cd hida-architecture
+git clone https://github.com/tomato-hida/predictive-agency-simulator.git
+cd predictive-agency-simulator
 ```
 
 ### Run
@@ -269,6 +269,26 @@ Tomato (Human)              AI (Claude, GPT, Gemini)
 
 ---
 
+## 🌱 Contributing / What's Next
+
+This is just the beginning.
+Phase 6 and beyond are waiting to be built.
+
+I'm a tomato farmer, not a neuroscientist or AI researcher.
+I've planted the seed, but I don't know what comes next.
+
+If you understand this better than I do, please take it further with AI.
+
+- Fork it
+- Extend it
+- Break it
+- Fix it
+- Prove it wrong
+
+PRs welcome. Let's see where this goes.
+
+---
+
 ## 📄 License
 
 MIT License
@@ -283,7 +303,7 @@ MIT License
   title = {HIDA Architecture: 
            Human-Inspired Dynamic Awareness Architecture},
   year = {2025},
-  url = {https://github.com/...}
+  url = {https://github.com/tomato-hida/predictive-agency-simulator}
 }
 ```
 
